@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me on LinkedIn:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/pandya-priyanka-234a7b30b" target="_blank">
+<a href="https://www.linkedin.com/in/riddhi-chheta-4247a232b/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="30" style="vertical-align: middle; margin-right: 5px;"/>
   https://www.linkedin.com/in/riddhi-chheta-4247a232b/
 </a>
