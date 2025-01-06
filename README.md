@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/riddhi-chheta-4247a232b/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="30" style="vertical-align: middle; margin-right: 5px;"/>
- Riddhi Chheta
+ https://www.linkedin.com/in/riddhi-chheta-4247a232b/
 </a>
 </p>
 
